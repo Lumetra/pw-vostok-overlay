@@ -27,8 +27,6 @@
 ### Прогресс
 Галочки сохраняются в `%APPDATA%\PWOverlay\progress.json`
 
-### Данные
-Координаты взяты с сайта [coldgun.ru](https://coldgun.ru/tools/east)
 
 ---
 
@@ -57,5 +55,3 @@ Don't trust it? The source code is fully open — read `overlay.py` and see for 
 ### Progress file
 Saved to `%APPDATA%\PWOverlay\progress.json`
 
-### Data source
-Coordinates sourced from [coldgun.ru](https://coldgun.ru/tools/east)
